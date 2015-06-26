@@ -1,0 +1,2 @@
+add file to x5 master branch
+check xem co conflic nao xay ra 
